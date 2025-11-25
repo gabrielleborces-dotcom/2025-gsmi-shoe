@@ -1,27 +1,33 @@
 {
   "departments": [
     "HR",
-    "Finance",
-    "Logistics",
-    "Sales",
+    "FIN",
+    "LOG",
+    "MFG",
+    "BPG",
     "IT",
-    "Marketing",
-    "Admin",
-    "Customer Service",
-    "Procurement",
-    "R&D"
+    "AUD",
+    "NAT. SALES",
+    "S&M",
+    "MKTG",
+    "MSG",
+    "GMA",
+    "KAG"
   ],
   "boxes": [
-    120,
-    95,
-    160,
-    180,
-    140,
-    100,
-    80,
-    110,
-    70,
-    90
+    2,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    10,
+    22,
+    0,
+    0,
+    0,
+    70
   ],
-  "target": 1500
+  "target": 1000
 }
